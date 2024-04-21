@@ -1,8 +1,8 @@
 # My Physics BSc coursework
-My reports and notable things I have done during my degree at the University of Edinburgh.
+My reports and notable things I have done during my degree at the University of Edinburgh. In the last 2 years of my degree (3rd and 4th year), I decided to focus on computation and biological physics when I started working part-time for the company named [Dyneval](https://www.dyneval.com/): A biotechnology start-up based at the Roslin institute.
 
 
-## DAH-Report: A Remote Weather Sensing System
+## [DAH-Report: A Remote Weather Sensing System](https://github.com/isabelnic/Physics-Bsc/tree/main/Data%20handling%20and%20Acquisition/DAH-Report-2022-main)
 The supplementary material for the remote sensing system. A 3rd year physics course. A 4th year course finished in December 2022.
 
 ### Purpose of the Project
@@ -27,12 +27,12 @@ The C++ code must be uploaded to the Adafruit HUZZAH ESP8266 WiFi micro-controll
 These are just for example purposes, to show what was done in the project. Not necessary to be able to replicate the project but aids it.
 
 
-## Physics-Skills
+## [Physics-Skills](https://github.com/isabelnic/Physics-Bsc/blob/main/Physics%20Skills/Physics-Skills-main/physics_skills_equation_sheet.pdf)
 A Physics course at the University of Edinburgh designed to test an undergraduate's general physics knowledge and predominantly problem-solving skills. Here is the sheet I brought into the exam that entails all of the relevant equations and statements that I have learned throughout my degree.
 
 
 
-## Modelling-and-Visualisation
+## [Modelling-and-Visualisation](https://github.com/isabelnic/Physics-Bsc/tree/main/Modelling%20and%20Visualisation/Modelling-and-Visualisation-main)
 A 4th year course taught by Davide Marenduzzo that includes 3 pieces of coursework called checkpoints. Each checkpoint tests your visualisation, optimisation and applied physics skills.
 
 - Checkpoint 1: The Ising model
@@ -41,12 +41,11 @@ A 4th year course taught by Davide Marenduzzo that includes 3 pieces of coursewo
 
 ## Various reports and literature reviews
 
-### Comets and Their Connection to the Origin of Life on Earth
+### [Comets and Their Connection to the Origin of Life on Earth](https://github.com/isabelnic/Physics-Bsc/blob/main/Research%20Methods/Research-Methods-main/Comets_and_Life_on_Earth.pdf)
 A part of the 3rd year physics course called research methods. 
 The PDF attached is the literature review, members of the group included Tanja Holc, Sandy Rome, Ben Attwood, Charles Lamb and Hannah Nicholson.
 
-
-#### Abstract
+**Abstract**
 Comets are fascinating astronomical objects, as they provide a deep insight into
 the Earth’s history. A well-studied example is 67P/Churyumov-Gerasimenko (67P),
 the focus of Rosetta’s soft landing mission in 2014, in which the amino acid glycine
@@ -61,11 +60,11 @@ Solar System, with a multitude of spacecraft missions currently being planned to
 investigate the beginnings of life on Earth.
 
 
-### TFTs-and-the-Human-Eye
+### [TFTs-and-the-Human-Eye](https://github.com/isabelnic/Physics-Bsc/blob/main/TFTs%20and%20the%20Human%20Eye/TFTs-and-the-Human-Eye-main/PostNote-1.pdf)
 A personal short literature review as part of the research methods course. 
 A literature review on how Thin Film transistors (TFTs) can be used to assist the blind or partially blind. 
 
-### A Ceoliacs Dream the Rise of Gluten-Free Bread
+### [A Ceoliacs Dream the Rise of Gluten-Free Bread](https://github.com/isabelnic/Physics-Bsc/blob/main/A%20Ceoliacs%20Dream%20The%20Rise%20of%20Gluten%20Free%20Bread/A-Ceoliacs-Dream-The-Rise-of-Gluten-Free-Bread-main/Group%20Project%20Final%20Report.pdf)
 The PDF attached is a report written for a 4th year course called Group Project. 
 Our group designed a gluten-free bread by looking for proteins that replicate best, the ones found in gluten. 
 This was a purely theoretical project, as much as we did want to test our recipe in the lab we did not have the time.
@@ -78,7 +77,7 @@ Thank you to our supervisor who helped guide us through this project: Jean-Chris
 This report provides evidence to suggest that people with coeliac disease and gluten intolerance are generally dissatisfied with the texture of current gluten free bread alternatives. It proceeds to lay out the groundwork for designing a gluten free flour that resembles the effects of wheat flour on dough and bread rheology by considering the thermodynamics of concentrated polymer doughs. We found that a polymer’s microscopic morphology plays a key role in dough rheology, which can be reduced to the ratio $\sqrt{N\nu / l^3}$ (the key ratio $\kappa$), where N is the number of monomers in a polymer, υ is the monomer volume and 𝑙 is the length of the monomer. The report continues to design a chemical recipe for a gluten free flour resembling strong wheat flour using proteins available in common grains. Finally, the economic, environmental, and nutritional suitability of the flour recipe is examined; with particular emphasis placed on the industrial challenges related to extracting these compounds from grains.
 
 
-## Data Analysis and Machine learning
+## [Data Analysis and Machine learning](https://github.com/isabelnic/Physics-Bsc/tree/main/Data%20Analysis%20and%20Machine%20learning/Data-Analysis-and-Machine-learning-main)
 A University of Edinburgh 5th-year physics computing course aimed at particle physicists. It focuses on fitting and neural networks and machine learning applied to data collected by the LHC.
 
 
